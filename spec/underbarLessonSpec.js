@@ -167,8 +167,6 @@
 
     //todo: reduceRight specs
 
-
-
   });
 
 }());
